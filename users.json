@@ -1,12 +1,10 @@
-{
-  "users": [
-    {
-      "login": "arisher",
-      "password": "qwerty"
-    },
-    {
-      "login": "aruka",
-      "password": "meow"
-    }
-  ]
-}
+[
+  {
+    "login": "arisher",
+    "password": "qwerty"
+  },
+  {
+    "login": "aruka",
+    "password": "meow"
+  }
+]
